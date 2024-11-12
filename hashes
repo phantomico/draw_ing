@@ -648,7 +648,7 @@ function DrawingLib.createFrame()
 end
 
 task.spawn(function()
-	print("Zenith Injected\n.gg/getZenith")
+	print("Zenith Injected\n.dsc.gg/zenithofficial")
 	local _game = game:GetService("CoreGui").Parent
 local HttpService = _game:FindService("HttpService")
 
